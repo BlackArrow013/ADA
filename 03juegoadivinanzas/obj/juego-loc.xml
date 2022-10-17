@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\juego.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\juego.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 13" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\juego.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\03iterativas\iterativas.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\juego.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 13" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\juego.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\03iterativas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 77" line=" 31" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\juego.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 27" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\juego.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 17" line=" 32" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\juego.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\03juegoadivinanzas\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

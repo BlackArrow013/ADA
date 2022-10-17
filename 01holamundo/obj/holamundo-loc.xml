@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>C:\Users\jjaular\Desktop\ADA\holamundo.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\holamundo.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 23" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\holamundo.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 25" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\holamundo.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 24" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\holamundo.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 25" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\holamundo.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 33" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\holamundo.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 33" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\holamundo.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 33" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\holamundo.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
