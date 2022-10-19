@@ -1,0 +1,2 @@
+main.adb:93:07: warning: variable "Valor1" is read but never assigned [-gnatwv]
+main.adb:94:07: warning: variable "Valor2" is read but never assigned [-gnatwv]

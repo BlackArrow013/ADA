@@ -1,0 +1,24 @@
+with Ada.Text_IO;
+with Ada.Strings;
+with Ada.Strings.Fixed; use Ada.Strings.Fixed;
+
+package Indra.IO is
+
+   function Get_NotEmpty_Line
+     (ErrorMessage : String := "Entrada vacía. Vuelva a Ingresar") return String is
+      use Ada.Text_IO;
+      Entrada : String;
+   begin
+      loop
+         declare
+            Entrada : String := Get_Line();
+         begin
+            Trim(Entrada);
+            exit when Entrada'Length > 0;
+         end;
+         Put_Line(ErrorMessage);
+      end loop;      
+   end Get_NotEmpty_Line;
+   
+
+end Indra.IO;
