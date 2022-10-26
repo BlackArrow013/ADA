@@ -41,8 +41,10 @@ package body IO is
       Value : Integer; 
    begin
       while not(EntradaCorrecta) loop
-         EntradaCorrecta := Try_Get_Integer(Value);   
-         Put_Line(ErrorMessage);
+         EntradaCorrecta := Try_Get_Integer(Value);
+         if not(EntradaCorrecta) then            
+            Put_Line(ErrorMessage);
+         end if;         
       end loop;
       return Value;
    end Get_Integer;
