@@ -1,0 +1,4 @@
+main.adb:2:12: error: "Vehiculo" is undefined
+main.adb:10:13: error: "Create" is undefined
+main.adb:11:04: error: "Put_Line" is undefined (more references follow)
+main.adb:11:04: error: possible missing "with Ada.Text_IO; use Ada.Text_IO"
