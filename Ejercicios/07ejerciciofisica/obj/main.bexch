@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\jjaular\Desktop\ADA\Ejercicios\07ejerciciofisica\ejercicio_fisica.gpr
+20221021071124 4216d3b3e06a993237510c81fe36e136
+[BOUND OBJECT FILES]
+C:\Users\jjaular\Desktop\ADA\Ejercicios\07ejerciciofisica\obj\velocidad_final.o
+C:\Users\jjaular\Desktop\ADA\Ejercicios\07ejerciciofisica\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\jjaular\Desktop\ADA\Ejercicios\07ejerciciofisica\obj\
+-LC:\Users\jjaular\Desktop\ADA\Ejercicios\07ejerciciofisica\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

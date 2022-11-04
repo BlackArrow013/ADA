@@ -1,22 +1,30 @@
 <?xml version="1.0"?>
 <Locations >
   <Project>
-    <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\ejercicioarreglo.gpr</vfs_file>
-    <file_marker column=" 16" line=" 23" >
-      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\ejercicioarreglo.gpr</vfs_project>
+    <vfs_file />
+    <file_marker column=" 29" line=" 59" >
+      <vfs_project />
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\src\main.adb</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 1" >
-      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\ejercicioarreglo.gpr</vfs_project>
+      <vfs_project />
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\src\io.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 7" line=" 36" >
-      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\ejercicioarreglo.gpr</vfs_project>
-      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\src\main.adb</vfs_file>
+    <file_marker column=" 31" line=" 34" >
+      <vfs_project />
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\src\io.adb</vfs_file>
     </file_marker>
     <file_marker current="true" column=" 1" line=" 1" >
-      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\ejercicioarreglo.gpr</vfs_project>
-      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\src\io.adb</vfs_file>
+      <vfs_project />
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\10ejercicioarreglo\src\io.ads</vfs_file>
     </file_marker>
   </Project>
 </Locations>

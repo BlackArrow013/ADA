@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\jjaular\Desktop\ADA\15Herencia\herencia.gpr
+20221103081238 4f2fba1d116e5d80dc6bfa6344b2ab16
+[BOUND OBJECT FILES]
+C:\Users\jjaular\Desktop\ADA\15Herencia\obj\io.o
+C:\Users\jjaular\Desktop\ADA\15Herencia\obj\selva.o
+C:\Users\jjaular\Desktop\ADA\15Herencia\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\jjaular\Desktop\ADA\15Herencia\obj\
+-LC:\Users\jjaular\Desktop\ADA\15Herencia\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

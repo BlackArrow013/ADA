@@ -1,0 +1,7 @@
+movil.adb:41:07: error: assignment to "in" mode parameter not allowed
+movil.adb:45:07: error: assignment to "in" mode parameter not allowed
+movil.adb:49:07: error: assignment to "in" mode parameter not allowed
+movil.adb:54:07: error: assignment to "in" mode parameter not allowed
+movil.adb:59:07: error: assignment to "in" mode parameter not allowed
+movil.adb:74:07: error: assignment to "in" mode parameter not allowed
+movil.adb:75:07: error: assignment to "in" mode parameter not allowed

@@ -1,0 +1,34 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U velocidad_final%b	velocidad_final.adb	f5ef0c5b NE OO PK
+
+U velocidad_final%s	velocidad_final.ads	6441e5b7 EE NE OO PK
+
+D system.ads		20210520051136 2ffa5114 system%s
+D velocidad_final.ads	20221021074906 6441e5b7 velocidad_final%s
+D velocidad_final.adb	20221021074936 91aee9ec velocidad_final%b
+G a e
+G c Z s b [posicion_final velocidad_final 9 13 none]
+X 2 velocidad_final.ads
+1K9*Velocidad_Final 13l5 13e20 3|1b14 13l5 13t20
+3F9*Calculo<float> 4r25 5r33 6r22 7r27 11r14 3|5r14 6r19
+4F12*Distancia{3F9} 10r26 3|4r29
+5F12*Velocidad_Inicial{3F9} 10r47 3|4r53
+6F12*Tiempo{3F9} 10r107 3|4r119
+7F12*Aceleracion{3F9} 10r72 3|4r81
+9V13*Posicion_Final{3F9} 10>7 10>37 10>66 10>85 3|3b13 11t7
+10f7 Posicion_Inicial{4F12} 3|4b7 9r20
+10f37 Vel_Ini{5F12} 3|4b40 9r40
+10f66 Ace{7F12} 3|4b72 9r75
+10f85 Tiempo_Transcurrido{6F12} 3|4b94 9r50 9r81 9r103
+X 3 velocidad_final.adb
+6f7 Pos_Final{2|3F9} 9m7 10r14
+

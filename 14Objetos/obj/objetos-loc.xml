@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 25" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\personaje.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 27" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\personaje.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\personaje.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 9" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 32" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\personaje.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 14" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 32" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\personaje.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 11" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 55" line=" 2" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 14" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 10" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 25" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\personaje.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 14" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 48" line=" 17" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 17" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\personaje.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 51" line=" 15" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\14Objetos\src\personaje.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

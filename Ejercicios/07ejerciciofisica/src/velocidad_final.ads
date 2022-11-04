@@ -7,7 +7,7 @@ package Velocidad_Final is
    subtype Aceleracion is Calculo;
    
    function Posicion_Final
-     (Posicion_Inicial : Distancia, Vel_Ini : Velocidad_Inicial, Ace : Aceleracion, Tiempo_Transcurrido : Tiempo) 
+     (Posicion_Inicial : Distancia; Vel_Ini : Velocidad_Inicial; Ace : Aceleracion; Tiempo_Transcurrido : Tiempo) 
       return Calculo;
 
 end Velocidad_Final;

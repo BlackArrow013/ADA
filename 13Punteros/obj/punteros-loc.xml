@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_file>
+    <file_marker column=" 15" line=" 9" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\io-enums.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\io-enums.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\io-enums.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\io-enums.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\io-enums.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 79" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 3" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 8" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 77" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 73" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 5" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\ioenums.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 60" line=" 70" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 25" line=" 5" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\13Punteros\punteros.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\13Punteros\src\ioenums.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

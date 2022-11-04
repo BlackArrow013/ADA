@@ -1,12 +1,11 @@
 <?xml version="1.0"?>
 <Locations >
-  <Project>
-    <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_file>
+  <Project >
     <file_marker column=" 1" line=" 1" >
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 101" line=" 9" >
+    <file_marker column=" 101" line=" 15" >
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
     </file_marker>
@@ -14,7 +13,7 @@
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 4" line=" 6" >
+    <file_marker column=" 30" line=" 11" >
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.ads</vfs_file>
     </file_marker>
@@ -22,29 +21,129 @@
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 44" line=" 12" >
+    <file_marker column=" 44" line=" 18" >
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 4" line=" 10" >
+    <file_marker column=" 4" line=" 16" >
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 21" line=" 11" >
+    <file_marker column=" 21" line=" 17" >
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 12" line=" 2" >
+    <file_marker column=" 12" line=" 6" >
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 26" line=" 10" >
+    <file_marker column=" 26" line=" 16" >
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 12" line=" 2" >
+    <file_marker column=" 12" line=" 6" >
       <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
       <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 55" line=" 2" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 27" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 55" line=" 2" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 16" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 17" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 16" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 61" line=" 12" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 16" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 52" line=" 7" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 16" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 12" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 58" line=" 23" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 54" line=" 21" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 50" line=" 69" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 29" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 33" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 60" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 54" line=" 21" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 60" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 16" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 60" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 41" line=" 59" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 39" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 37" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 7" line=" 41" >
+      <vfs_project>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\ejercicioobjetos.gpr</vfs_project>
+      <vfs_file>C:\Users\jjaular\Desktop\ADA\Ejercicios\14ejercicioobjetos\src\movil.adb</vfs_file>
     </file_marker>
   </Project>
 </Locations>
